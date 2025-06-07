@@ -10,7 +10,7 @@ jqdatasdk
 
 lz4
 # plot
-matplotlib
+matplotlib>=3.3.3
 # data handling
 numpy>=1.17.3
 pandas>=1.1.5
@@ -48,6 +48,7 @@ swig
 TA-lib # conda install -c conda-forge ta-lib
 
 tensorboard
+torch>=1.11.0
 webdriver-manager
 wheel>=0.33.6
 wrds
