@@ -1,7 +1,7 @@
 alpaca-py
 alpaca_trade_api>=2.1.0
 ccxt>=1.66.32
-elegantrl
+elegantrl @ git+https://github.com/aparadocs/ElegantRL.git
 
 gputil
 gymnasium
